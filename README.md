@@ -18,7 +18,7 @@ My focus is on ensuring quality, stability, and an excellent end-user experience
 I have a background in customer service, which allows me to analyze software not only from a technical perspective but also from the user experience.
 
 ## Proyects
-### Urban Grocers App
+🔴 Urban Grocers App
 Functional testing project for a supermarket web application.
 This quality assurance project focused on functional testing of a supermarket web application. The objective was to validate the main user flows, ensuring that the functionalities met the defined requirements and offered a consistent user experience.
 Processes such as registration, authentication, shopping cart, and order generation were tested.
@@ -41,7 +41,7 @@ This project strengthened my functional analysis and user experience validation 
 
 👉 View project: https://github.com/javoariasgzz-cpu/qa-project-Urban-Grocers-app-es
 
-### Urban Routes
+🔴 Urban Routes
 This project focused on the functional validation of a web application related to urban routes. The objective was to ensure that the navigation flows and main functionalities worked correctly under different usage scenarios.
 Both the system logic and the user experience were evaluated.
 
@@ -64,7 +64,7 @@ The importance of exploratory testing, in addition to formal test cases, was rei
 
 👉 View project: https://github.com/javoariasgzz-cpu/qa-project-Urban-Routes-es
 
-### API Stand Tests
+🔴 API Stand Tests
 Automated Testing for Endpoint and API Response Validation
 
 This project involved the functional validation of a REST API using structured testing to ensure the correct operation of its endpoints. The main objective was to verify that requests and responses met the established technical requirements and business rules.
