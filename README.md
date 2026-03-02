@@ -1,10 +1,11 @@
-# Javier Arias
+#<img width="1584" height="396" alt="Dark Blue Abstract Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/c3fa1811-b284-4d57-8818-5924873baf03" />
+ Javier Arias
 ## Contact
 📧 Email: javo.arias.gzz@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/javier-arias-047965162/
 
 
-### QA Software Engineer<img width="1584" height="396" alt="Dark Blue Abstract Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/9729d7a1-c57b-40f3-b8f2-79b6a373f5a1" />
+### QA Software Engineer
 
 Welcome to my Quality Assurance portfolio.
 Here you'll find projects where I apply manual testing, automated testing, API testing, and web application validation.
