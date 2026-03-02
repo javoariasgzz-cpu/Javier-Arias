@@ -24,6 +24,7 @@ This quality assurance project focused on functional testing of a supermarket we
 Processes such as registration, authentication, shopping cart, and order generation were tested.
 
 🔹My Analysis
+
 I analyzed the system's functional requirements.
 I designed detailed test cases to cover primary and alternative scenarios.
 I ran manual functional and exploratory tests.
@@ -32,6 +33,7 @@ I documented defects found with clear replication steps.
 I identified issues related to incorrect field validations and unexpected behavior in certain checkout flows.
 
 🔹Key Findings
+
 Critical business flows were successfully validated.
 Errors directly impacting user experience were identified.
 Test coverage was improved through alternative and negative scenarios.
@@ -44,6 +46,7 @@ This project focused on the functional validation of a web application related t
 Both the system logic and the user experience were evaluated.
 
 🔹My Analysis
+
 I reviewed the functional requirements and acceptance criteria.
 I designed test cases to validate navigation flows.
 I ran exploratory tests to identify undocumented behaviors.
@@ -53,7 +56,8 @@ I documented defects related to business logic and validations.
 
 Inconsistencies were detected in the system's behavior under certain input scenarios, as well as errors in specific validations.
 
-🔹Main Conclusions
+🔹Key Findings
+
 The correct functioning of the main flows was confirmed.
 Defects that could cause confusion for the end user were identified.
 The importance of exploratory testing, in addition to formal test cases, was reinforced. This project solidified my skills in critical analysis, early defect detection, and user experience.
@@ -66,6 +70,7 @@ Automated Testing for Endpoint and API Response Validation
 This project involved the functional validation of a REST API using structured testing to ensure the correct operation of its endpoints. The main objective was to verify that requests and responses met the established technical requirements and business rules.
 
 🔹My Analysis
+
 I identified the system's critical endpoints.
 I designed positive and negative test cases.
 I validated HTTP status codes (200, 400, 404, etc.).
@@ -74,7 +79,8 @@ I tested scenarios with invalid, missing, and boundary data.
 
 I analyzed consistency between sent and stored data.
 
-🔹Main Conclusions
+🔹Key Findings
+
 The overall stability of the main endpoints was confirmed.
 Errors in data validations that could affect system integrity were identified.
 
