@@ -1,5 +1,5 @@
 # Javier Arias
-## Contacto
+## Contact
 📧 Email: javo.arias.gzz@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/javier-arias-047965162/
 
