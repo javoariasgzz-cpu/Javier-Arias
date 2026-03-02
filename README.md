@@ -5,88 +5,91 @@
 
 
 ### QA Software Engineer
+Welcome to my Quality Assurance portfolio.
+Here you'll find projects where I apply manual testing, automated testing, API testing, and web application validation.
 
-Bienvenido a mi portafolio de Aseguramiento de Calidad.  
-Aquí encontrarás proyectos donde aplico pruebas manuales, pruebas atuomatizadas, testing de APIs y validación de aplicaciones web.
+My focus is on ensuring quality, stability, and an excellent end-user experience.
 
-Mi enfoque está en garantizar calidad, estabilidad y una excelente experiencia para el usuario final.
+## About me
+🔭 I'm currently in the final part of my QA Engineer course at BootCamp TripleTen, eager to apply my new knowledge, I am a QA Software Engineer in training with experience in manual and API testing. I currently develop practical projects focused on bug detection, requirements validation, and continuous product improvement.
 
+🌱 I'm currently practicing with Selenium 📘 and have already completed projects using 💻 SQL and Python, utilizing the Pythest and Request libraries, as well as manual testing tools like Jira, Postman, and Android Studio. 
 
-## Sobre mí
-Soy QA Software Engineer en formación con experiencia en pruebas manuales y testing de APIs.  
-Actualmente desarrollo proyectos prácticos enfocados en detección de bugs, validación de requisitos y mejora continua del producto.
+I have a background in customer service, which allows me to analyze software not only from a technical perspective but also from the user experience.
 
-Tengo background en atención al cliente, lo que me permite analizar el software no solo desde la lógica técnica, sino también desde la experiencia del usuario.
+## Proyects
+### Urban Grocers App
+Functional testing project for a supermarket web application.
+This quality assurance project focused on functional testing of a supermarket web application. The objective was to validate the main user flows, ensuring that the functionalities met the defined requirements and offered a consistent user experience.
+Processes such as registration, authentication, shopping cart, and order generation were tested.
 
-## Proyectos
-### 🔹 Urban Grocers App
-Proyecto de testing funcional para aplicación web de supermercado.
-Proyecto de aseguramiento de calidad enfocado en pruebas funcionales de una aplicación web de supermercado. El objetivo fue validar los flujos principales del usuario, asegurando que las funcionalidades cumplieran con los requisitos definidos y ofrecieran una experiencia consistente.
-Se probaron procesos como registro, autenticación, carrito de compras y generación de pedidos.
+🔹My Analysis
+I analyzed the system's functional requirements.
+I designed detailed test cases to cover primary and alternative scenarios.
+I ran manual functional and exploratory tests.
+I validated required fields, error messages, and data constraints.
+I documented defects found with clear replication steps.
+I identified issues related to incorrect field validations and unexpected behavior in certain checkout flows.
 
-Mi análisis
-Analicé los requisitos funcionales del sistema.
-Diseñé casos de prueba detallados para cubrir escenarios principales y alternativos.
-Ejecuté pruebas manuales funcionales y exploratorias.
-Validé campos obligatorios, mensajes de error y restricciones de datos.
-Documenté defectos encontrados con pasos de reproducción claros.
-Detecté fallas relacionadas con validaciones incorrectas de campos y comportamientos inesperados en ciertos flujos de compra.
+🔹Key Findings
+Critical business flows were successfully validated.
+Errors directly impacting user experience were identified.
+Test coverage was improved through alternative and negative scenarios.
+This project strengthened my functional analysis and user experience validation skills.
 
-Conclusiones principales
-Se validaron correctamente los flujos críticos del negocio.
-Se identificaron errores que impactaban directamente la experiencia del usuario.
-Se mejoró la cobertura de pruebas mediante escenarios alternativos y negativos.
-Este proyecto fortaleció mi capacidad de análisis funcional y validación de experiencia de usuario.
+👉 View project: https://github.com/javoariasgzz-cpu/qa-project-Urban-Grocers-app-es
 
-👉 Ver proyecto: https://github.com/javoariasgzz-cpu/qa-project-Urban-Grocers-app-es
+### Urban Routes
+This project focused on the functional validation of a web application related to urban routes. The objective was to ensure that the navigation flows and main functionalities worked correctly under different usage scenarios.
+Both the system logic and the user experience were evaluated.
 
-### 🔹 Urban Routes
-Proyecto enfocado en la validación funcional de una aplicación web relacionada con rutas urbanas. El objetivo fue asegurar que los flujos de navegación y funcionalidades principales funcionaran correctamente bajo distintos escenarios de uso.
-Se evaluó tanto la lógica del sistema como la experiencia del usuario.
+🔹My Analysis
+I reviewed the functional requirements and acceptance criteria.
+I designed test cases to validate navigation flows.
+I ran exploratory tests to identify undocumented behaviors.
+I analyzed visual and functional consistency in the interface.
 
-Mi análisis
-Revisé los requisitos funcionales y criterios de aceptación.
-Diseñé casos de prueba para validar flujos de navegación.
-Ejecuté pruebas exploratorias para identificar comportamientos no documentados.
-Analicé consistencia visual y funcional en la interfaz.
-Documenté defectos relacionados con lógica de negocio y validaciones.
-Se detectaron inconsistencias en comportamiento del sistema frente a ciertos escenarios de entrada y errores en validaciones específicas.
+I documented defects related to business logic and validations.
 
-Conclusiones principales
-Se confirmó el correcto funcionamiento de los flujos principales.
-Se identificaron defectos que podrían generar confusión en el usuario final.
-Se reforzó la importancia de pruebas exploratorias complementarias a los casos formales.
-Este proyecto consolidó mis habilidades en análisis crítico, detección temprana de defectos y enfoque en experiencia de usuario.
+Inconsistencies were detected in the system's behavior under certain input scenarios, as well as errors in specific validations.
 
-👉 Ver proyecto: https://github.com/javoariasgzz-cpu/qa-project-Urban-Routes-es
+🔹Main Conclusions
+The correct functioning of the main flows was confirmed.
+Defects that could cause confusion for the end user were identified.
+The importance of exploratory testing, in addition to formal test cases, was reinforced. This project solidified my skills in critical analysis, early defect detection, and user experience.
 
-### 🔹 API Stand Tests
-Pruebas automatizadas para validación de endpoints y respuestas de API.
-Este proyecto consistió en la validación funcional de una API REST mediante pruebas estructuradas para garantizar el correcto funcionamiento de sus endpoints. El objetivo principal fue verificar que las solicitudes y respuestas cumplieran con los requisitos técnicos y reglas de negocio establecidas.
+👉 View project: https://github.com/javoariasgzz-cpu/qa-project-Urban-Routes-es
 
-Mi análisis
-Identifiqué los endpoints críticos del sistema.
-Diseñé casos de prueba positivos y negativos.
-Validé códigos de estado HTTP (200, 400, 404, etc.).
-Verifiqué estructura y contenido del JSON en las respuestas.
-Probé escenarios con datos inválidos, faltantes y límites.
-Analicé consistencia entre datos enviados y datos almacenados.
+### API Stand Tests
+Automated Testing for Endpoint and API Response Validation
 
-Conclusiones principales
-Se confirmó la estabilidad general de los endpoints principales.
-Se identificaron errores en validaciones de datos que podrían afectar la integridad del sistema.
-Se fortaleció la cobertura de pruebas al incluir escenarios límite.
-Se trabajó con diferentes tipos de peticiones HTTP y validación de datos en formato JSON.
+This project involved the functional validation of a REST API using structured testing to ensure the correct operation of its endpoints. The main objective was to verify that requests and responses met the established technical requirements and business rules.
 
-👉 Ver proyecto: https://github.com/javoariasgzz-cpu/api_stand_tests
+🔹My Analysis
+I identified the system's critical endpoints.
+I designed positive and negative test cases.
+I validated HTTP status codes (200, 400, 404, etc.).
+I verified the structure and content of the JSON in the responses.
+I tested scenarios with invalid, missing, and boundary data.
 
+I analyzed consistency between sent and stored data.
 
-## Habilidades Técnicas
-- Pruebas Manuales
-- Pruebas Automatizadas
-- Diseño de Casos de Prueba
-- Reporte y seguimiento de bugs (Jira)
-- Testing de APIs (Postman)
-- SQL básico para validación de datos
-- Análisis de requisitos
+🔹Main Conclusions
+The overall stability of the main endpoints was confirmed.
+Errors in data validations that could affect system integrity were identified.
+
+Test coverage was strengthened by including boundary scenarios.
+
+We worked with different types of HTTP requests and validated data in JSON format.
+
+👉 View project: https://github.com/javoariasgzz-cpu/api_stand_tests
+
+## Technical Skills
+- Manual Testing
+- Automated Testing
+- Test Case Design
+- Bug Reporting and Tracking (Jira)
+- API Testing (Postman)
+- Basic SQL for Data Validation
+- Requirements Analysis
 - Git & GitHub
