@@ -4,7 +4,8 @@
 💼 LinkedIn: https://www.linkedin.com/in/javier-arias-047965162/
 
 
-### QA Software Engineer
+### QA Software Engineer<img width="1584" height="396" alt="Dark Blue Abstract Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/9729d7a1-c57b-40f3-b8f2-79b6a373f5a1" />
+
 Welcome to my Quality Assurance portfolio.
 Here you'll find projects where I apply manual testing, automated testing, API testing, and web application validation.
 
