@@ -42,6 +42,7 @@ This project strengthened my functional analysis and user experience validation 
 
 👉 View project: https://github.com/javoariasgzz-cpu/qa-project-Urban-Grocers-app-es
 
+
 🔴 Urban Routes
 
 This project focused on the functional validation of a web application related to urban routes. The objective was to ensure that the navigation flows and main functionalities worked correctly under different usage scenarios.
@@ -65,6 +66,7 @@ Defects that could cause confusion for the end user were identified.
 The importance of exploratory testing, in addition to formal test cases, was reinforced. This project solidified my skills in critical analysis, early defect detection, and user experience.
 
 👉 View project: https://github.com/javoariasgzz-cpu/qa-project-Urban-Routes-es
+
 
 🔴 API Stand Tests
 
@@ -92,6 +94,7 @@ Test coverage was strengthened by including boundary scenarios.
 We worked with different types of HTTP requests and validated data in JSON format.
 
 👉 View project: https://github.com/javoariasgzz-cpu/api_stand_tests
+
 
 ## Technical Skills
 - Manual Testing
