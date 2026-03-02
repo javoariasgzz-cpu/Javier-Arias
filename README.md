@@ -1,5 +1,4 @@
-#<img width="1584" height="396" alt="Dark Blue Abstract Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/c3fa1811-b284-4d57-8818-5924873baf03" />
- Javier Arias
+<img width="1584" height="396" alt="Dark Blue Abstract Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/c3fa1811-b284-4d57-8818-5924873baf03" />
 ## Contact
 📧 Email: javo.arias.gzz@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/javier-arias-047965162/
