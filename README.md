@@ -1,4 +1,4 @@
-![Banner](https://private-user-images.githubusercontent.com/246134318/556989749-c3fa1811-b284-4d57-8818-5924873baf03.png)
+(https://private-user-images.githubusercontent.com/246134318/556989749-c3fa1811-b284-4d57-8818-5924873baf03.png)
 
 📧 javo.arias.gzz@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-qa/)
