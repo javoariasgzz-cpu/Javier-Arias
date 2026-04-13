@@ -1,4 +1,5 @@
-![Banner](<img width="1915" height="468" alt="Captura de pantalla 2026-04-13 143523" src="https://github.com/user-attachments/assets/d8540780-6c15-4fe7-af4b-003347ca297a" />)
+<img width="1915" height="468" alt="Captura de pantalla 2026-04-13 143523" src="https://github.com/user-attachments/assets/7a0e19ac-f761-4253-a70b-8717c5b741ef" />
+
 
 📧 javo.arias.gzz@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-qa/)
