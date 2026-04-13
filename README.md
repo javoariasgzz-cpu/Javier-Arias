@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Javier Arias — QA Engineer" src="https://github.com/user-attachments/assets/7dfa90bb-3ce5-4d38-a3c8-a9c0b13f5d25" />
+<img width="1915" height="468" alt="Captura de pantalla 2026-04-13 143523" src="https://github.com/user-attachments/assets/73569c56-d65f-45e8-bfb5-0057587ea4ea" />
 
 
 📧 javo.arias.gzz@gmail.com
