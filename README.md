@@ -1,9 +1,8 @@
-<img width="1915" height="468" alt="Captura de pantalla 2026-04-13 143523" src="https://github.com/user-attachments/assets/73569c56-d65f-45e8-bfb5-0057587ea4ea" />
-
+![Banner](banner.png)
 
 📧 javo.arias.gzz@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-qa/)
-💻 
+💻 [GitHub](https://github.com/javoariasgzz-cpu)
 
 # Javier Arias — QA Engineer
 
