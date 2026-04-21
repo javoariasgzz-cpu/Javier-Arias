@@ -30,6 +30,14 @@ Bilingual EN/ES. Based in Monterrey, México. Open to remote work.
 
 ## Projects
 
+### [YouTube QA Suite — Independent Project](https://github.com/javoariasgzz-cpu/youtube-qa-suite)
+Full end-to-end QA project built independently for YouTube, covering REST API testing and UI automation.
+- 15 automated test cases — 10 API tests + 5 UI tests, all passing
+- API tested via YouTube Data API v3 using Python and Requests
+- UI automated with Selenium WebDriver and Page Object Model
+- Key finding: YouTube API silently accepts out-of-range parameters instead of returning 400
+- Secure API key management with .env and .gitignore
+
 ### [Urban Routes — UI Test Automation](https://github.com/javoariasgzz-cpu/qa-project-Urban-Routes-es)
 End-to-end automated test suite for a ride-hailing web application.
 - 9 automated test cases covering the full taxi booking flow
